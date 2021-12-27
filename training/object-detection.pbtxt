@@ -1,0 +1,12 @@
+item {
+  id: 1
+  name: 'Bad_Hole'
+} 
+item{
+  id: 2
+  name: 'Good_Pack'
+}
+item{
+  id: 3
+  name: 'Bad_Shape'
+}
